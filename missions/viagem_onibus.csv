@@ -1,0 +1,9 @@
+Nome do Motorista,Número da CNH,Validade do Curso,Data e Hora de Saída,Data e Hora de Chegada,Destino,Litros Abastecidos,Avarias na Saída,Avarias na Chegada,Descrição de Falhas Mecânicas ou Elétricas,Checklist realizado
+Jose Raimundo,123.456.898-01,25/05/2025,16/04/2024 09:10,17/04/2024 09:10,Bahia,300,S/A,S/A,Sem novidades,Sim
+João Batista,00.000.258.58,25/10/2025,18/04/2024 10:05,20/04/2024 10:05,Bahia,300,Sem avarias,Sem avarias,Sem intercorrencias,Sim
+Lucas Discipulo de Jesus,01.0001.0001.001-01,25/02/2025,18/04/2024 10:09,20/04/2024 10:09,Bahia,300,Sem Avarias,Sem Avarias,Sem intercorrencias,Sim
+Matheus dicipulo de Jesus,002.003.004-01,25/08/2025,18/04/2024 10:15,20/04/2024 10:15,Bahia,300,Sem avarias,Sem avarias,sem intercorrencias,Sim
+Matheus dicipulo de Jesus,002.003.004-01,"
+25/08/2025",18/04/2024 10:19,20/04/2024 10:19,Bahia,300,Sem avarias,Sem avarias,sem intercorrencias,Sim
+Matheus dicipulo de Jesus,002.003.004-01,25/08/2025,18/04/2024 10:24,20/04/2024 10:24,Bahia,300,Sem avarias,Sem avarias,sem intercorrencias,Sim
+Josué Homem de Deus,002.003.005.315,28/05/2026,18/04/2024 10:31,20/04/2024 10:31,Campinas,300,Sem avarias,Sem avarias,sem intercorrencias,Sim
